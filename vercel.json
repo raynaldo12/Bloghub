@@ -29,6 +29,6 @@
         "DB_DATABASE": "wpu_blog",
         "DB_USERNAME": "raynaldo7",
         "DB_PASSWORD": "ray778899"
-    }
+    },
      "outputDirectory": "public"
 }
