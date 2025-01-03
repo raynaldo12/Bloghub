@@ -27,13 +27,7 @@
         "VIEW_COMPILED_PATH": "/tmp",
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
-        "SESSION_DRIVER": "cookie",
-        "DB_CONNECTION": "mysql",
-        "DB_HOST": "127.0.0.1",
-        "DB_PORT": "3306",
-        "DB_DATABASE": "wpu_blog",
-        "DB_USERNAME": "raynaldo7",
-        "DB_PASSWORD": "ray778899"
+        "SESSION_DRIVER": "cookie"
     },
     "outputDirectory": "public"
 }
